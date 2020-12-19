@@ -3,6 +3,6 @@ class PagesController < ApplicationController
     end
     def test
     end
-    def aboutus
+    def about
     end
 end
